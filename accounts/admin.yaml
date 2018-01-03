@@ -1,0 +1,15 @@
+email: jan.korte@mail.ru
+fullname: 'Jan Korte'
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$5aA9oSZiigzI.FbgtDC6auBpp7g643x7oc2tJqUO530wTv/FxTdQ2
+authorized: true
+twofa_secret: MNJGBQID4H5RZIEJ5QAQPPASB3IEUHM7
+language: de
+twofa_enabled: false

@@ -1,0 +1,11 @@
+title: 'Todo Titelseite'
+default_lang: de
+author:
+  name: 'Todo Autor'
+  email: 'Todo Mailadresse'
+metadata:
+  description: 'Todo Google Beschreibung'
+summary:
+  enabled: false
+blog:
+  route: /blog
