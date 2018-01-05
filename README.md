@@ -10,7 +10,7 @@
 `bin/gpm install featherlight lightslider`
 
 * Install optional plugins
-`bin/gpm install git-sync piwik`
+`bin/gpm install git-sync`
 
 * Install Skeleton files
 `git clone https://github.com/Tamriel/spring.git user/themes/spring`
