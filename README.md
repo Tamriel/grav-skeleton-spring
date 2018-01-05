@@ -12,7 +12,7 @@
 * Install optional plugins
 `bin/gpm install git-sync`
 
-* Install Skeleton files
+* Install Skeleton files<br>
 `git clone https://github.com/Tamriel/grav-skeleton-spring.git`
 `rm -rf user/pages user/config user/accounts`<br>
 `mv grav-skeleton-spring/pages/ grav-skeleton-spring/config/ grav-skeleton-spring/accounts/ user/`<br>
