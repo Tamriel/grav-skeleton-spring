@@ -1,5 +1,5 @@
 ## Setup
-* Install Grav with the Admin Plugin
+* Install Grav with the Admin Plugin<br>
 `wget https://getgrav.org/download/core/grav-admin/latest`<br>
 `unzip latest`<br>
 `rm latest`<br>
@@ -15,7 +15,7 @@
 * Install Skeleton files
 `git clone https://github.com/Tamriel/spring.git user/themes/spring`
 
-* Install the Spring Theme
+* Install the Spring Theme<br>
 `git clone https://github.com/Tamriel/spring.git user/themes/spring`<br>
 `cd user/themes/spring`<br>
 `scss --load-path ../antimatter/scss --watch scss:css-compiled`
