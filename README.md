@@ -19,9 +19,7 @@
 `rm -rf grav-skeleton-spring`<br>
 
 * Install the Spring Theme<br>
-`git clone https://github.com/Tamriel/spring.git user/themes/spring`<br>
-`cd user/themes/spring`<br>
-`scss --load-path ../antimatter/scss --watch scss:css-compiled`
+`git clone https://github.com/Tamriel/spring.git user/themes/spring`
 
 * Test if the website works
 
