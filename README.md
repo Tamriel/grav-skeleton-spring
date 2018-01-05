@@ -1,3 +1,6 @@
+## Developing
+Install a webserver like Apache on your computer.
+
 ## Setup
 * Install Grav with the Admin Plugin<br>
 `wget https://getgrav.org/download/core/grav-admin/latest`<br>
