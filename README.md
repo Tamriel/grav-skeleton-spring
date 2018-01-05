@@ -13,7 +13,10 @@
 `bin/gpm install git-sync`
 
 * Install Skeleton files
-`git clone https://github.com/Tamriel/spring.git user/themes/spring`
+`git clone https://github.com/Tamriel/grav-skeleton-spring.git`
+`rm -rf user/pages user/config user/accounts`<br>
+`mv grav-skeleton-spring/pages/ grav-skeleton-spring/config/ grav-skeleton-spring/accounts/ user/`<br>
+`rm -rf grav-skeleton-spring`<br>
 
 * Install the Spring Theme<br>
 `git clone https://github.com/Tamriel/spring.git user/themes/spring`<br>
