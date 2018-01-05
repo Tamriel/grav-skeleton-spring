@@ -17,7 +17,7 @@
 
 * Install the Spring Theme
 `git clone https://github.com/Tamriel/spring.git user/themes/spring`<br>
-`cd user/themes/spring`
+`cd user/themes/spring`<br>
 `scss --load-path ../antimatter/scss --watch scss:css-compiled`
 
 * Test if the website works
