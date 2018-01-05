@@ -9,10 +9,10 @@ Install a webserver like Apache on your computer.
 `mv grav-admin/* grav-admin/.* .`<br>
 `rmdir grav-admin`<br>
 
-* Install needed plugins for the theme
+* Install needed plugins for the theme<br>
 `bin/gpm install featherlight lightslider`
 
-* Install optional plugins
+* Install optional plugins<br>
 `bin/gpm install git-sync`
 
 * Install Skeleton files<br>
