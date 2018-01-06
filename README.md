@@ -10,7 +10,7 @@
 `bin/gpm install featherlight lightslider`
 
 * Install optional plugins<br>
-`bin/gpm install git-sync`
+`bin/gpm install git-sync resize-images`
 
 * Install Skeleton files<br>
 `git clone https://github.com/Tamriel/grav-skeleton-spring.git`<br>
@@ -32,7 +32,8 @@
   * `user/config/site.yaml`
   * `user/config/system.yaml`
   * `user/config/plugins/email.yaml`
-  * `user/config/plugins/git-sync.yaml`
+
+* Setup the git sync plugin in the admin interface.
 
 * Adjust structure, text and images in `user/pages/`. 
   * The fastest way is editing the files locally and viewing the website with a webserver (e.g. Apache) on your computer. If you are finished, push the changes to the git repo configured in the git-sync plugin.
