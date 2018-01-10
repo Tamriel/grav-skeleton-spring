@@ -2,6 +2,7 @@ absolute_urls: false
 languages:
   supported:
     - de
+  include_default_lang: false
 home:
   alias: '/home'
 
