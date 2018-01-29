@@ -26,7 +26,7 @@
 * Login to the admin Interface at yoursite.de/admin with:
   * Benutzer: admin
   * Passwort: Aa1admin
-* Change the password for each customer
+* Change the username and the password
 
 * Adjust fields marked as todo in
   * `user/config/site.yaml`
