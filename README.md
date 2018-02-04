@@ -31,9 +31,13 @@
 * Adjust fields marked as todo in
   * `user/config/site.yaml`
   * `user/config/plugins/email.yaml`
-
+  
 * Setup the git sync plugin in the admin interface with Bitbucket.
 
 * Adjust structure, text and images in `user/pages/`. 
   * The fastest way is editing the files locally and viewing the website with a webserver (e.g. Apache) on your computer. If you are finished, push the changes to the git repo configured in the git-sync plugin.
   * To get a feeling for the file and folder formats create and edit some pages with the admin interface or look in the grav documentation.
+  
+* When using multiple languages:
+  * On small devices, the total width of the menu items plus the language list is too much.
+  * Therefore set in `user/themes/spring/css-compiled/template.css` in the row `@media (max-width: 1100px)` the width, at which menu items and language list become two rows. The language list will be hidden when below that width.
