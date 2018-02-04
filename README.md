@@ -32,7 +32,7 @@
   * `user/config/site.yaml`
   * `user/config/plugins/email.yaml`
 
-* Setup the git sync plugin in the admin interface.
+* Setup the git sync plugin in the admin interface with Bitbucket.
 
 * Adjust structure, text and images in `user/pages/`. 
   * The fastest way is editing the files locally and viewing the website with a webserver (e.g. Apache) on your computer. If you are finished, push the changes to the git repo configured in the git-sync plugin.
