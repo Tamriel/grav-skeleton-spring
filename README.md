@@ -30,7 +30,6 @@
 
 * Adjust fields marked as todo in
   * `user/config/site.yaml`
-  * `user/config/system.yaml`
   * `user/config/plugins/email.yaml`
 
 * Setup the git sync plugin in the admin interface.
