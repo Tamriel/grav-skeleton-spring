@@ -41,3 +41,10 @@
 * When using multiple languages:
   * On small devices, the total width of the menu items plus the language list is too much.
   * Therefore set in `user/themes/spring/css-compiled/template.css` in the row `@media (max-width: 1100px)` the width, at which menu items and language list become two rows. The language list will be hidden when below that width.
+
+## Comments
+* [Install](https://blog.amuehlbeier.de/isso-auf-u7/) Isso on your server
+* Enable Twig processing in the Grav settings
+* ` bin/gpm install jscomments`
+* In the plugins settings add your ISSO Url and disable voting
+* Add `{{ jscomments()|raw }}` below the text of a page
