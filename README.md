@@ -10,7 +10,7 @@
 `bin/gpm install featherlight lightslider`
 
 * Install optional plugins<br>
-`bin/gpm install git-sync resize-images auto-date langswitcher`
+`bin/gpm install git-sync resize-images auto-date langswitcher tinymce-editor`
 
 * Install Skeleton files<br>
 `git clone https://github.com/Tamriel/grav-skeleton-spring.git`<br>
