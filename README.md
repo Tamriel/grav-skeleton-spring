@@ -42,6 +42,8 @@
   * On small devices, the total width of the menu items plus the language list is too much.
   * Therefore set in `user/themes/spring/css-compiled/template.css` in the row `@media (max-width: 1100px)` the width, at which menu items and language list become two rows. The language list will be hidden when below that width.
 
+* You may want to remove the footer 'Made with love by..." in the admin panel: In the file `user/plugins/admin/themes/grav/templates/partials/base-root.html.twig` delete the line `<footer ... </footer>`.
+
 ## Comments
 * [Install](https://blog.amuehlbeier.de/isso-auf-u7/) Isso on your server
 * Enable Twig processing in the Grav settings
