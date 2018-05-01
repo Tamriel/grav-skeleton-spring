@@ -7,7 +7,7 @@
 `rmdir grav-admin`<br>
 
 * Install needed plugins for the theme<br>
-`bin/gpm install featherlight lightslider`
+`bin/gpm install featherlight lightslider antimatter`
 
 * Install optional plugins<br>
 `bin/gpm install git-sync resize-images auto-date langswitcher tinymce-editor`
