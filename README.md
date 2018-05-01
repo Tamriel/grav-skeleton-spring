@@ -44,6 +44,8 @@
 
 * You may want to remove the footer 'Made with love by..." in the admin panel: In the file `user/plugins/admin/themes/grav/templates/partials/base-root.html.twig` delete the line `<footer ... </footer>`.
 
+* In the Admin Panel at 'Plugins' -> 'Admin Panel' you may want to activate the Page Media Image Resizer by setting `Resize Width` to e.g. `900`.
+
 ## Comments
 * [Install](https://blog.amuehlbeier.de/isso-auf-u7/) Isso on your server
 * Enable Twig processing in the Grav settings
