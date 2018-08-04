@@ -11,7 +11,7 @@ pages:
   markdown:
     extra: false
   process:
-    markdown: true
+    markdown: false
     twig: false
 
 cache:

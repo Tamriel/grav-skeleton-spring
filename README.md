@@ -7,10 +7,10 @@
 `rmdir grav-admin`<br>
 
 * Install needed plugins for the theme<br>
-`bin/gpm install featherlight lightslider antimatter`
+`bin/gpm install featherlight lightslider langswitcher`
 
 * Install optional plugins<br>
-`bin/gpm install git-sync resize-images auto-date langswitcher tinymce-editor`
+`bin/gpm install git-sync auto-date tinymce-editor`
 
 * Install Skeleton files<br>
 `git clone https://github.com/Tamriel/grav-skeleton-spring.git`<br>
