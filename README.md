@@ -52,3 +52,7 @@
 * ` bin/gpm install jscomments`
 * In the plugins settings add your ISSO Url and disable voting
 * Add `{{ jscomments()|raw }}` below the text of a page
+
+## Issues
+- Rewrite the theme for the new Grav base theme
+- On middle widde screens: break navbar correctly into tow rows with this code: https://www.reddit.com/r/bootstrap/comments/54mj4v/how_would_you_split_a_group_of_navpills_into_two/d84br2a/
